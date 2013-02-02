@@ -33,3 +33,6 @@ gem 'jquery-rails'
 
 # To use debugger
 gem 'haml'
+
+# To use sortable_columns
+gem 'handles_sortable_columns'
